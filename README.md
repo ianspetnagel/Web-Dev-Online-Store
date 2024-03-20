@@ -7,22 +7,29 @@ Full Proj is .zip
 
 The Utils, Models, Repositories and Pages files are all included.
 
+
 *Add Product Page*
+
 <img width="725" alt="add_prod" src="https://github.com/ianspetnagel/ArcFace-Multi-Class-Classification/assets/62821052/34a4d130-3a11-4e0b-81a4-6929ea2b8042">
 
 *Displaying 'Books' Category of Products*
+
 <img width="1247" alt="books" src="https://github.com/ianspetnagel/ArcFace-Multi-Class-Classification/assets/62821052/9bb0ddf0-ca84-4742-8fe0-ea2d69da12e9">
 
 *Displaying 'Electronics' Category of Products*
+
 <img width="1247" alt="elec" src="https://github.com/ianspetnagel/ArcFace-Multi-Class-Classification/assets/62821052/a67477cc-a80b-4e85-8d28-9a1bf3ea8087">
 
 *Displaying 'Sports' Category of Products*
+
 <img width="1247" alt="sports" src="https://github.com/ianspetnagel/ArcFace-Multi-Class-Classification/assets/62821052/8e68c1f9-612d-4fac-b562-d3bf1f7fafa1">
 
 *SQl Server Database*
+
 <img width="821" alt="db_b4" src="https://github.com/ianspetnagel/ArcFace-Multi-Class-Classification/assets/62821052/0ef6eca9-86e0-4551-bc71-b412a3702f1d">
 
 *Edit Products Page*
+
 <img width="708" alt="edit_prod" src="https://github.com/ianspetnagel/ArcFace-Multi-Class-Classification/assets/62821052/a9504c00-a456-4df9-9735-7bb5ccbbb2a3">
 
 
